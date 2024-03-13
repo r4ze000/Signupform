@@ -118,6 +118,9 @@ transition: 2s ease-in;
     display: flex;
       
 }  
+.social-media a{
+    text-decoration: none;
+}
 .social-media i{
     font-size: 2rem;
     height: 30px;
@@ -133,6 +136,16 @@ transition: 2s ease-in;
     box-shadow: 2px rgba(0, 0, 0, 0.5); 
     
 }
+.color1{
+    color: #093164cb;
+}
+.color2{
+    color: #f03737cb;
+}
+.color3{
+    color: #0c4969bd;
+}
+
 
 .form p{
     height: 40px;
